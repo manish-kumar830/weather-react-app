@@ -5,6 +5,7 @@
 html {
   /* background-color: #8fbc8f; */
   background-image: linear-gradient(rgb(225, 215, 107),rgb(225, 167, 167));
+  height: 100%
 }
 .app-name {
   font-size: 2rem;
